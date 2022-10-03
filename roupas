@@ -2,28 +2,28 @@
     {
       "id": 1,
       "nome": "moletom fila",
-      "foto": "img/moletom fila.webp",
+      "foto": "https://dode2511.github.io/disp-moveis/fila.webp",
       "preco": 175,
       "cor": "branco"
     },
     {
       "id": 2,
       "nome": "bone nike",
-      "foto": "img/mbone nike.webp",
+      "foto": "https://dode2511.github.io/disp-moveis/nike.webp",
       "preco": 85,
       "cor": "preto"
     },
     {
       "id": 3,
       "nome": "camisa lacoste",
-      "foto": "img/camisa lacoste.jpg",
+      "foto": "https://dode2511.github.io/disp-moveis/lacoste.jpg",
       "preco": 100,
       "ingredientes": "branco"
     },
     {
       "id": 4,
       "nome": "moletom vans",
-      "foto": "img/moletom vans.webp",
+      "foto": "https://dode2511.github.io/disp-moveis/vans.webp",
       "preco": 150,
       "ingredientes": "vermelho"
     }
