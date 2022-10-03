@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "nome": "moletom fila",
+      "foto": "img/moletom fila.webp",
+      "preco": 175,
+      "cor": "branco"
+    },
+    {
+      "id": 2,
+      "nome": "bone nike",
+      "foto": "img/mbone nike.webp",
+      "preco": 85,
+      "cor": "preto"
+    },
+    {
+      "id": 3,
+      "nome": "camisa lacoste",
+      "foto": "img/camisa lacoste.jpg",
+      "preco": 100,
+      "ingredientes": "branco"
+    },
+    {
+      "id": 4,
+      "nome": "moletom vans",
+      "foto": "img/moletom vans.webp",
+      "preco": 150,
+      "ingredientes": "vermelho"
+    }
+  ]
