@@ -1,58 +1,58 @@
 [
     {
       "id": 1,
-      "nome": "moletom fila",
+      "nome": "Moletom Fila",
       "foto": "https://dode2511.github.io/disp-moveis/trab/fila.webp",
       "preco": 175,
-      "cor": "branco"
+      "cor": "Branco"
     },
     {
       "id": 2,
-      "nome": "bone nike",
+      "nome": "Bone Nike",
       "foto": "https://dode2511.github.io/disp-moveis/trab/nike.webp",
       "preco": 85,
-      "cor": "preto"
+      "cor": "Preto"
     },
     {
       "id": 3,
-      "nome": "camisa lacoste",
+      "nome": "Camisa Lacoste",
       "foto": "https://dode2511.github.io/disp-moveis/trab/lacoste.jpg",
       "preco": 100,
-      "cor": "branco"
+      "cor": "Branco"
     },
     {
       "id": 4,
-      "nome": "moletom vans",
+      "nome": "Moletom Vans",
       "foto": "https://dode2511.github.io/disp-moveis/trab/vans.webp",
       "preco": 150,
-      "cor": "vermelho"
+      "cor": "Vermelho"
     },
     {
       "id": 5,
-      "nome": "moletom fila",
-      "foto": "https://dode2511.github.io/disp-moveis/trab/fila.webp",
+      "nome": "Adidas SpringBlade",
+      "foto": "https://dode2511.github.io/disp-moveis/trab/adidas.webp",
       "preco": 175,
-      "cor": "branco"
+      "cor": "Vermelho/preto"
     },
     {
       "id": 6,
-      "nome": "bone nike",
-      "foto": "https://dode2511.github.io/disp-moveis/trab/nike.webp",
+      "nome": "High",
+      "foto": "https://dode2511.github.io/disp-moveis/trab/high.webp",
       "preco": 85,
-      "cor": "preto"
+      "cor": "Verde"
     },
     {
       "id": 7,
-      "nome": "camisa lacoste",
-      "foto": "https://dode2511.github.io/disp-moveis/trab/lacoste.jpg",
+      "nome": "Camisa Inter",
+      "foto": "https://dode2511.github.io/disp-moveis/trab/inter.webp",
       "preco": 100,
-      "cor": "branco"
+      "cor": "branco/vermelho"
     },
     {
       "id": 8,
-      "nome": "moletom vans",
-      "foto": "https://dode2511.github.io/disp-moveis/trab/vans.webp",
+      "nome": "Calça Jeans Levis",
+      "foto": "https://dode2511.github.io/disp-moveis/trab/levis.webp",
       "preco": 150,
-      "cor": "vermelho"
+      "cor": "Azul"
     }
   ]
