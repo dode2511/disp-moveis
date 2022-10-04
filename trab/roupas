@@ -31,28 +31,28 @@
       "id": 5,
       "nome": "Adidas SpringBlade",
       "foto": "https://dode2511.github.io/disp-moveis/trab/adidas.webp",
-      "preco": 175,
+      "preco": 1200,
       "cor": "Vermelho/preto"
     },
     {
       "id": 6,
       "nome": "High",
       "foto": "https://dode2511.github.io/disp-moveis/trab/high.webp",
-      "preco": 85,
+      "preco": 300,
       "cor": "Verde"
     },
     {
       "id": 7,
       "nome": "Camisa Inter",
       "foto": "https://dode2511.github.io/disp-moveis/trab/inter.webp",
-      "preco": 100,
+      "preco": 130,
       "cor": "branco/vermelho"
     },
     {
       "id": 8,
       "nome": "Calça Jeans Levis",
       "foto": "https://dode2511.github.io/disp-moveis/trab/levis.webp",
-      "preco": 150,
+      "preco": 275,
       "cor": "Azul"
     }
   ]
