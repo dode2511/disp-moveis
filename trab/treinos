@@ -4,74 +4,34 @@
       "nome": "Treino de Segunda",
       "foto": "https://gabicavalheiro.github.io/desenvolvimento_disp.moveis/treino.png",
       "preco": 175,
-      "desc":"WOD
-RML (8 MIN)
-10x flexão de braço
-12x abs
-15x salto na caixa
-FORÇA
-5x3 Power Snatch
-5x3 Power Clean
-5x3 Overhead Squat"
+      "desc":"WOD: 5x3 Power Snatch; 5x3 Power Clean; 5x3 Overhead Squat"
     },
     {
       "id": 2,
       "nome": "Treino de Terça",
-      "foto": "https://gabicavalheiro.github.io/desenvolvimento_disp.moveis/treino2.png",
+      "foto": "https://gabicavalheiro.github.io/desenvolvimento_disp.moveis/treino1.png",
       "preco": 85,
-      "desc": "WOD
-RML (MENOR TEMPO POSSÍVEL)
-Thruster (21 rep, 15 rep, 9 rep)
-Burpees (21 rep, 15 rep, 9 rep)
-FORÇA
-5x3 clean & jerk
-4x3 clean pull
-5x5 back squat"
+      "desc": "WOD: 5x3 clean & jerk; 4x3 clean pull; 5x5 back squat"
     },
     {
       "id": 3,
       "nome": "Treino de Quarta",
-      "foto": "https://gabicavalheiro.github.io/desenvolvimento_disp.moveis/treino.png",
+      "foto": "https://gabicavalheiro.github.io/desenvolvimento_disp.moveis/treino2.png",
       "preco": 100,
-      "desc": "WOD
-RML (20 MIN)
-5x puxada na barra
-10x flexão de braço
-15x agachamento livre
-FORÇA
-back squat e dead lift com rep. regressivas (6, 5, 4, 3, 2, 1)"
+      "desc": "WOD: back squat e dead lift com rep. regressivas (6, 5, 4, 3, 2, 1)"
     },
     {
       "id": 4,
       "nome": "Treino de Quinta",
-      "foto": "https://gabicavalheiro.github.io/desenvolvimento_disp.moveis/treino2.png",
+      "foto": "https://gabicavalheiro.github.io/desenvolvimento_disp.moveis/treino3.png",
       "preco": 150,
-      "desc": "WOD
-RML (MENOR TEMPO POSSÍVEL)
-10x wall ball
-10x salto na caixa
-10x abs na barra com suspensão
-FORÇA
-4x6 Power Snatch
-4x6 Power Clean
-4x6 Power Jerk
-4x6 Overhead Squat"
+      "desc": "WOD: 4x6 Power Snatch; 4x6 Power Clean; 4x6 Power Jerk; 4x6 Overhead Squat"
     },
       {
       "id": 5,
       "nome": "Treino de Sexta",
-      "foto": "https://gabicavalheiro.github.io/desenvolvimento_disp.moveis/treino.png",
+      "foto": "https://gabicavalheiro.github.io/desenvolvimento_disp.moveis/treino4.png",
       "preco": 150,
-      "desc": "WOD
-RML (10 MIN)
-10x puxada na barra
-12x abs infra
-15x Thruster
-FORÇA
-5x3 Back Squat
-5x3 Dead Lifts
-8x Flexão de braço
-12x sit up
-15x salto na caixa"
+      "desc": "WOD: 5x3 Back Squat; 5x3 Dead Lifts; 8x Flexão de braço; 12x sit up; 15x salto na caixa"
     }
   ]
