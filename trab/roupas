@@ -26,5 +26,33 @@
       "foto": "https://dode2511.github.io/disp-moveis/trab/vans.webp",
       "preco": 150,
       "ingredientes": "vermelho"
+    },
+    {
+      "id": 5,
+      "nome": "moletom fila",
+      "foto": "https://dode2511.github.io/disp-moveis/trab/fila.webp",
+      "preco": 175,
+      "cor": "branco"
+    },
+    {
+      "id": 6,
+      "nome": "bone nike",
+      "foto": "https://dode2511.github.io/disp-moveis/trab/nike.webp",
+      "preco": 85,
+      "cor": "preto"
+    },
+    {
+      "id": 7,
+      "nome": "camisa lacoste",
+      "foto": "https://dode2511.github.io/disp-moveis/trab/lacoste.jpg",
+      "preco": 100,
+      "ingredientes": "branco"
+    },
+    {
+      "id": 8,
+      "nome": "moletom vans",
+      "foto": "https://dode2511.github.io/disp-moveis/trab/vans.webp",
+      "preco": 150,
+      "ingredientes": "vermelho"
     }
   ]
